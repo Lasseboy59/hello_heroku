@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Heroku!
+          Hello Heroku (frontend deployed) !
         </a>
       </header>
     </div>
